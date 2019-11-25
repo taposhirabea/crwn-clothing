@@ -66,43 +66,43 @@ const SHOP_DATA = [
     routeName: 'jackets',
     items: [
         {
-            id: 1,
+            id: 10,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/01/19/18/04/man-1150058__340.jpg',
             price: 100
         },
         {
-            id: 2,
+            id: 11,
             name: 'b',
             imageUrl: 'https://cdn.pixabay.com/photo/2015/04/20/13/22/person-731258__340.jpg',
             price: 80
         },
         {
-            id: 3,
+            id: 12,
             name: 'c',
             imageUrl: 'https://cdn.pixabay.com/photo/2018/01/15/07/52/portrait-3083402__340.jpg',
             price: 80
         },
         {
-            id: 4,
+            id: 13,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/02/19/10/21/girl-1209193__340.jpg',
             price: 50
         },
         {
-            id: 5,
+            id: 14,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2017/08/06/06/42/people-2589566__340.jpg',
             price: 50
         },
         {
-            id: 6,
+            id: 15,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2017/08/06/11/11/beanie-2591388__340.jpg',
             price: 50
         },
         {
-            id: 7,
+            id: 16,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2015/03/26/10/00/guy-690753__340.jpg',
             price: 50
@@ -115,31 +115,31 @@ const SHOP_DATA = [
     routeName: 'sneakers',
     items: [
         {
-            id: 1,
+            id: 17,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2013/09/12/19/57/boots-181744__340.jpg',
             price: 30
         },
         {
-            id: 2,
+            id: 18,
             name: 'b',
             imageUrl: 'https://cdn.pixabay.com/photo/2017/04/11/04/36/spring-2220553__340.jpg',
             price: 32
         },
         {
-            id: 3,
+            id: 19,
             name: 'c',
             imageUrl: 'https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg',
             price: 30
         },
         {
-            id: 4,
+            id: 20,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2014/07/31/23/42/legs-407196__340.jpg',
             price: 40
         },
         {
-            id: 5,
+            id: 21,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2017/03/27/14/26/adult-2179062__340.jpg',
             price: 34
@@ -152,19 +152,19 @@ const SHOP_DATA = [
     routeName: 'womens',
     items: [
         {
-            id: 1,
+            id: 22,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/03/23/08/34/beautiful-1274360__340.jpg',
             price: 22
         },
         {
-            id: 2,
+            id: 23,
             name: 'b',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/10/12/02/50/girl-1733335__340.jpg',
             price: 22
         },
         {
-            id: 3,
+            id: 24,
             name: 'c',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/02/19/11/55/autumn-1210058__340.jpg',
             price: 22
@@ -177,19 +177,19 @@ const SHOP_DATA = [
     routeName: 'Mens',
     items: [
         {
-            id: 1,
+            id: 25,
             name: 'a',
             imageUrl: 'https://cdn.pixabay.com/photo/2016/03/09/10/23/model-1246028__340.jpg',
             price: 22
         },
         {
-            id: 2,
+            id: 26,
             name: 'b',
             imageUrl: 'https://cdn.pixabay.com/photo/2015/09/02/12/28/fashion-918446__340.jpg',
             price: 22
         },
         {
-            id: 3,
+            id: 27,
             name: 'c',
             imageUrl: 'https://cdn.pixabay.com/photo/2013/02/18/18/36/fashion-83137__340.jpg',
             price: 22
