@@ -1,5 +1,5 @@
-const SHOP_DATA = [
-    {
+const SHOP_DATA = {
+    hats: {
         id: 1,
         title: 'Hats',
         routeName: 'hats',
@@ -60,7 +60,7 @@ const SHOP_DATA = [
         }
     ]
 },
-{
+jackets: {
     id: 2,
     title: 'Jackets',
     routeName: 'jackets',
@@ -109,7 +109,7 @@ const SHOP_DATA = [
         }
     ]
 },
-{
+sneakers: {
     id: 3,
     title: 'Sneakers',
     routeName: 'sneakers',
@@ -117,36 +117,36 @@ const SHOP_DATA = [
         {
             id: 17,
             name: 'a',
-            imageUrl: 'https://cdn.pixabay.com/photo/2013/09/12/19/57/boots-181744__340.jpg',
-            price: 30
+            imageUrl: 'https://cdn.pixabay.com/photo/2017/04/09/18/54/shoes-2216498_960_720.jpg',
+            price: 22
         },
         {
             id: 18,
             name: 'b',
-            imageUrl: 'https://cdn.pixabay.com/photo/2017/04/11/04/36/spring-2220553__340.jpg',
-            price: 32
+            imageUrl: 'https://cdn.pixabay.com/photo/2016/11/21/16/55/adult-1846436_960_720.jpg',
+            price: 22
         },
         {
             id: 19,
             name: 'c',
-            imageUrl: 'https://cdn.pixabay.com/photo/2015/03/26/10/38/girl-691712__340.jpg',
-            price: 30
+            imageUrl: 'https://cdn.pixabay.com/photo/2016/01/19/17/47/hiking-1149891_960_720.jpg',
+            price: 22
         },
         {
             id: 20,
-            name: 'a',
-            imageUrl: 'https://cdn.pixabay.com/photo/2014/07/31/23/42/legs-407196__340.jpg',
-            price: 40
+            name: 'c',
+            imageUrl: 'https://cdn.pixabay.com/photo/2015/05/31/10/54/shoes-791044_960_720.jpg',
+            price: 22
         },
         {
             id: 21,
-            name: 'a',
-            imageUrl: 'https://cdn.pixabay.com/photo/2017/03/27/14/26/adult-2179062__340.jpg',
-            price: 34
+            name: 'c',
+            imageUrl: 'https://cdn.pixabay.com/photo/2016/11/29/03/30/adult-1867073_960_720.jpg',
+            price: 22
         }
     ]
 },
-{
+womens: {
     id: 4,
     title: 'Womens',
     routeName: 'womens',
@@ -171,7 +171,7 @@ const SHOP_DATA = [
         }
     ]
 },
-{
+mens: {
     id: 5,
     title: 'Mens',
     routeName: 'Mens',
@@ -196,6 +196,6 @@ const SHOP_DATA = [
         }
     ]
 }
-];
+};
 
 export default SHOP_DATA;
